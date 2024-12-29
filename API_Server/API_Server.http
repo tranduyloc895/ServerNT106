@@ -1,0 +1,6 @@
+@API_Server_HostAddress = http://localhost:5185
+
+GET {{API_Server_HostAddress}}/function-API/
+Accept: application/jsonx
+
+###
